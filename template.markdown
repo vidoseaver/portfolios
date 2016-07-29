@@ -1,10 +1,9 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Vido Seaver - M1 Portfolio
 
 ## Individual
 
 ### Areas of Emphasis
 
-(What did you set out to accomplish this module?)
 
 ### End of Module Assessment
 
@@ -31,9 +30,21 @@
 
 (Intro)
 
-#### (Project Name)
+#### Black Thursday
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/Cdunagan05/black_thursday)
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+#### (NiteWriter)
+
+* [GitHub URL](https://github.com/vidoseaver/night_writer)
 * [Original Assignment]()
 
 (description)
@@ -47,8 +58,9 @@
 ## Community
 
 ### Giving Feedback
+Pairing with Gabi Proceell on Nitewriter. 
 
-(feedback from me)
+This was our first pairing project and second evaluated project.  We struggled with just about everything, github, white_boarding, pairing planning and sharing workload. Despite the crash and burn of the project we stayed amicable and I don't think it overshadows our relationship.. To me that was the real win. In a project recap we discussed how we should have DTR'd better. I think it would also help for you to work on trusting what you know and confidently communicating it. I think this is how feedback is supposed to look….
 
 ### Being a Community Member
 
@@ -56,7 +68,7 @@
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+I donated a community siracha, repped Turing and went and crushed data entry for that start up at the begining of the mod and helped build the front ends furniture
 
 ## Review
 
