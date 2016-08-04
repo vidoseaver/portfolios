@@ -20,7 +20,6 @@ https://github.com/vidoseaver/portfolios/blob/Mod1/final_assessment_first_attemp
 https://github.com/vidoseaver/portfolios/blob/Mod1/final_assessment_second_attempt
 
 
-### Work
 
 
 ### Projects
